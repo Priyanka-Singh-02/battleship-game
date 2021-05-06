@@ -14,11 +14,5 @@ module.exports = () => {
         assert.equal(false, attack(4,4,grid));
       });
       
-    //   it('it should not return 5 when max input is 5 ', () => {
-    //     assert.notStrictEqual(5, getRandomInt(5));
-    //   });
-    //   it('Should be a function', () => {
-    //     expect(getRandomInt).to.be.a('function');
-    //   });
-    // });
+  
     })};
